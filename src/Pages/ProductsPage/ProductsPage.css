@@ -1,0 +1,9 @@
+.ProductsPage {
+  min-height: 786px;
+  background-color: blanchedalmond;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 100px;
+}
